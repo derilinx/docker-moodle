@@ -1,0 +1,5 @@
+2018-11-27 15:03:24,559 INFO o.e.j.u.log [main] Logging initialized @14227ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-11-27 15:03:25,748 INFO o.e.j.s.Server [main] jetty-9.4.z-SNAPSHOT
+2018-11-27 15:03:25,887 INFO o.e.j.s.h.ContextHandler [main] Started o.e.j.s.ServletContextHandler@2fdf7da2{/,null,AVAILABLE}
+2018-11-27 15:03:25,907 INFO o.e.j.s.AbstractConnector [main] Started ServerConnector@68df8c6{HTTP/1.1,[http/1.1, h2c]}{0.0.0.0:8080}
+2018-11-27 15:03:25,908 INFO o.e.j.s.Server [main] Started @15588ms
